@@ -7,6 +7,10 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.util.UUID;
 
+/**
+ * 单点登录注册中心
+ * @date 2018.8.8
+ */
 @Controller
 public class LoginController {
     private String cc;
